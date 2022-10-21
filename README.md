@@ -26,7 +26,8 @@
 #### JAVASCRIPT: 
 1. Two things that require JavaScript in the Browser are the interaction with the users and the webserver.  
 2. First of all, make a local copy of our example file, then save it in a directory somewhere sensible. Open the file in your web browser and in your text editor. You'll see that the HTML creates a simple web page containing a clickable button. Next, go to your text editor and add the following in your head — just before your closing </head> tag: You add JavaScript to an HTML document by using the <script> element. 
-  
+  <img width="727" alt="Screen Shot 2022-10-21 at 9 57 24 AM" src="https://user-images.githubusercontent.com/113928893/197249458-1cb6de0c-c0ae-4fa9-b749-e2f89e57d777.png">
+
 ## Things I want to know more about
 
 
