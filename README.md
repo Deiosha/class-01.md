@@ -26,6 +26,8 @@
 #### JAVASCRIPT: 
 1. Two things that require JavaScript in the Browser are the interaction with the users and the webserver.
 2. You add JavaScript to an HTML document by using the <script> element. 
+  
+## Things I want to know more about
 
 
 
