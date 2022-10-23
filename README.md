@@ -30,6 +30,8 @@
   <img width="727" alt="Screen Shot 2022-10-21 at 9 57 24 AM" src="https://user-images.githubusercontent.com/113928893/197249458-1cb6de0c-c0ae-4fa9-b749-e2f89e57d777.png">
 
 ## Things I want to know more about:
+  
+1. How do you know when a value is a string or number?
 
 
 
