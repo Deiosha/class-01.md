@@ -1,6 +1,6 @@
 #### Class 1 Reading:
 
-1. I am searching for you for clients. I search for you for Sevres. So you both can speak to each other. Your language is like a passage. It is a foundation of data exchange. 
+1. I am searching for you for clients. I search for you for servers. So you both can speak to each other. Your language is like a passage. It is a foundation of data exchange. 
 2. ......
 3. You can locate images to access to a website by informing the HTML where the image stays, and the image can usually be seen in the directory. The layout you can use is images/your-image-filename. 
 4. Strings are a form of data that can be depicted in a text form and written using single or double quotes. Quotes do not surround numbers; they are used to manipulate numbers. 
