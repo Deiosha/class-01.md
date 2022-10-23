@@ -1,7 +1,8 @@
 #### Class 1 Reading:
 
 1. I am searching for you for clients. I search for you for servers. So you both can speak to each other. Your language is like a passage. It is a foundation of data exchange. 
-2. ......
+2. First, the HTML file is parsed, and then it will send a request back towards the server for the link connected to CSS or JS script. Then the browser will parse the link and script. After, the browser will create a DOM tree and implement the files into a visible depiction on the user's interface. 
+
 3. You can locate images to access to a website by informing the HTML where the image stays, and the image can usually be seen in the directory. The layout you can use is images/your-image-filename. 
 4. Strings are a form of data that can be depicted in a text form and written using single or double quotes. Quotes do not surround numbers; they are used to manipulate numbers. 
 5. Variables are containers and their purpose is meant to store values. Variables are important in JavaScript because they hold a given value.
